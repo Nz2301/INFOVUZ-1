@@ -9,6 +9,12 @@
     <color name="rg_btn">#FF8481</color>
 
 
+    <color name="registerColor">#743B3B</color>
+    <color name="rounded_color_sign_in_up">#FF6E62</color>
+    <color name="sign_in_up_text">#FFFFFF</color>
+    <color name="hint_color">#858585</color>
+    <color name="color_sign_in_up_button">#FF8481</color>
+
     <color name="rg_input">#ECECEC</color>
 
 </resources>
